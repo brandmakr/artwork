@@ -5,7 +5,7 @@ The brandmakr logo and other media.
 >**Use** ```https://brandmakr.github.io/artwork/img/path/to/files```
 
 <p align="center">
-    <img src="https://brandmakr.github.io/artwork/img/logo/logox120.svg"height="130">
+    <img src="https://brandmakr.github.io/artwork/logo/logox120.svg"height="130">
 </p>
 <p align="center">
 
@@ -81,5 +81,5 @@ The brandmakr logo and other media.
 [link-brandmakr]: https://brandmakr.com
 
 [ico-brandmakr]: https://img.shields.io/badge/brandmakr-v1.0-1ab691.svg?style=flat-square
-[logo]: https://brandmakr.github.io/artwork/img/logo/logox32.svg "Logo"
-[banner]: https://brandmakr.github.io/artwork/img/logo/logox120.svg "Logo banner"
+[logo]: https://brandmakr.github.io/artwork/logo/logox32.svg "Logo"
+[banner]: https://brandmakr.github.io/artwork/logo/logox120.svg "Logo banner"
